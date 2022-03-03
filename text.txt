@@ -1,0 +1,7 @@
+string"[{"events":[{"type":"message","attributes":[{"key":"action","value":"send"},{"key":"sender","value":"cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae"},{"key":"module","value":"bank"}]},{"type":"transfer","attributes":[{"key":"recipient","value":"cosmos18fypwg20sekhp5sle4kgyuww4sct8rq90c8lft"},{"key":"sender","value":"cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae"},{"key":"amount","value":"390632000uatom"}]}]}]"
+
+
+cosmos18fypwg20sekhp5sle4kgyuww4sct8rq90c8lft
+guest-resources/contribution 
+
+
